@@ -1,0 +1,13 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/7382173bd63f66a5e05e38cecb262a55_Slide34.JPG
+file_type: image/jpeg
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+resourcetype: Image
+title: 3.2 slide 34
+uid: 7382173b-d63f-66a5-e05e-38cecb262a55
+---

@@ -1,0 +1,17 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Session 1, Part 1: Introduction and Overview of Business Plans'
+uid: edaa1d3e-8efa-6406-102f-1b1162d31663
+video_files:
+  archive_url: https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S1P1_300k.mp4
+  video_captions_file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/194dc9e55f585bdb923025b9799658d2_ZcPNcoTbkIU.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/ZcPNcoTbkIU/default.jpg
+  video_transcript_file: /courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/eadfd6bd2977261970ccee334ec6cb1f_ZcPNcoTbkIU.pdf
+video_metadata:
+  youtube_id: ZcPNcoTbkIU
+---
+
+**Speaker:** Joe Hadzima
